@@ -1,1 +1,1 @@
-# Similar-Apparel-Retrieval-
+# Similar-Apparel-Retrieval
